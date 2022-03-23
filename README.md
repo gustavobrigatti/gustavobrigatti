@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gustavo Rosolen Brigatti
 
-- 🔭 Hoje sou full-stack
+- 🔭 Hoje sou um desenvolvedor full-stack
 - 🌱 Estudando: Laravel/PHP
 - 😄 Pronouns: ele/dele
 
