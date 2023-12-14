@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gustavo Rosolen Brigatti
 
 - 🔭 Hoje sou um desenvolvedor full-stack
-- 🌱 Estudando: Laravel/PHP
+- 🌱 Estudando: Laravel/PHP e Integrações com ChatGPT
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gustavo-rosolen-brigatti/">
